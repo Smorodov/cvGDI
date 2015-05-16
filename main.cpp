@@ -4,7 +4,6 @@
 #include <fstream>
 #include <numeric>
 #include "opencv2/opencv.hpp"
-#include "spline.h"
 #include <cmath>
 #include "cvGDI.h"
 using namespace std;
